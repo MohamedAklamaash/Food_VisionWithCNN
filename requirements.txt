@@ -1,6 +1,10 @@
 tensorflow
-tensorboard
-numpy
-pandas
-matplotlib
 scikit-learn
+numpy 
+pandas
+nltk
+tensorflow_probability
+tf_keras
+matplotlib
+pydot
+tensorflow_hub
